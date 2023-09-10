@@ -5,7 +5,7 @@ from flask import Flask
 app = Flask(__name__)
 
 # using python decorator to add functionality to the website
-@app.route("/apple-news")
+@app.route("/")
 def index():
     return "Apple News!"
 
