@@ -1,40 +1,40 @@
 {
-    "totalArticles": 108572,
+    "totalArticles": 5062,
     "articles": [
         {
-            "title": "Are women with PCOS at increased risk of high blood pressure?",
-            "description": "PCOS Awareness Month: It is known that women with PCOS are almost 3 times more likely to have type 2 diabetes, according to a study titled ‘Women’s Health Study’ by Apple and Harvard",
-            "content": "Every year, September is observed as PCOS Awareness Month in a bid to improve the lives of those affected by polycystic ovary syndrome (PCOS) and to help them overcome their symptoms as well as prevent and reduce their risks for life-threatening cond... [606 chars]",
-            "url": "https://indianexpress.com/article/lifestyle/health/pcos-women-high-blood-pressure-hypertension-risk-8919365/",
-            "image": "https://images.indianexpress.com/2023/09/pcos-1200.jpg",
-            "publishedAt": "2023-09-11T02:50:36Z",
+            "title": "Apple strikes chip supply agreement with Qualcomm, suggesting it isn't yet ready to go it alone",
+            "description": "Apple's deal with Qualcomm indicates the tech giant isn't ready to rely on its in-house chips just yet.",
+            "content": "Apple (AAPL) and Qualcomm (QCOM) revealed on Monday they've struck a new chip supply agreement.\nThe partnership stipulates that Qualcomm will provide its Snapdragon 5G Modem‑RF Systems for Apple's smartphone launching from 2024 to 2026. The financial... [2648 chars]",
+            "url": "https://ca.finance.yahoo.com/news/apple-strikes-chip-supply-agreement-with-qualcomm-suggesting-it-isnt-yet-ready-to-go-it-alone-114830164.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/_oRo1CDmWR_7JO0j6V6LXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/9a6df100-5332-11ed-bfd1-57962f2115a8",
+            "publishedAt": "2023-09-11T11:48:30Z",
             "source": {
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com"
+                "name": "Yahoo Canada Finance",
+                "url": "https://ca.finance.yahoo.com"
             }
         },
         {
-            "title": "iPad Air 6 Could Launch In October As The Sole iPad Refresh This Year: Report",
-            "description": "Apple could launch the iPad Air 6 in October as the sole iPad refresh of this year with newer internal specifications, a Weibo account has claimed.",
-            "content": "Apple iPad Air 6 could launch this October and may be the only refreshed iPad from the lineup this year, as per a new Weibo rumor and Bloomberg’s Mark Gurman. Currently in its fifth-generation, the iPad Air is offered with the Apple M1 chipset and is... [1458 chars]",
-            "url": "https://www.news18.com/tech/ipad-air-6-could-launch-in-october-as-the-sole-ipad-refresh-this-year-8572286.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2023/08/ipad-pro-2024-oled-169320827516x9.jpg",
-            "publishedAt": "2023-09-11T02:43:20Z",
+            "title": "Here's the sunnier side of the Apple stock sell-off: Morning Brief",
+            "description": "At least the interest rate outlook has become clearer for tech investors.",
+            "content": "Amazing how one minuscule headline could take down shares of tech titan Apple (AAPL).\nAs Yahoo Finance's Jared Blikre wrote on Friday in this space, Apple's stock tanked 6% from Wednesday's opening bell to Thursday's close. It marked the biggest back... [2643 chars]",
+            "url": "https://finance.yahoo.com/news/heres-the-sunnier-side-of-the-apple-stock-sell-off-morning-brief-100042807.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/wZbGK3KaLmEiqpFr6qYJpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzI-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/73009e50-4e73-11ee-9be5-cf7402fae360",
+            "publishedAt": "2023-09-11T10:00:42Z",
             "source": {
-                "name": "News18",
-                "url": "https://www.news18.com"
+                "name": "Yahoo Finance",
+                "url": "https://finance.yahoo.com"
             }
         },
         {
-            "title": "Apple Could Finally Convince More Android Users To Buy iPhones: Here’s How",
-            "description": "Apple iPhone 15 series with USB C charging means you could get faster charging speeds and ease of using more accessories.",
-            "content": "Apple iPhone 15 series is launching this week, and the wait will be finally over to see the company adopt USB-C charging for its new iPhones. Apple was not keen on this move for obvious reasons, but the stringent EU laws have forced the company’s han... [1511 chars]",
-            "url": "https://www.news18.com/tech/apple-could-finally-convince-more-android-users-to-buy-iphones-heres-how-8572178.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2023/09/iphone-15-pro-169385147016x9.jpg",
-            "publishedAt": "2023-09-11T02:30:45Z",
+            "title": "Pixel Watch 2 gets set to take on Galaxy Watch 6 and Apple Watch Series 9 in India",
+            "description": "Google is scheduled to host the Made by Google event on October 4 in New York.The tech giant will launch the Pixel 8 series and the Pixel Watch 2 at the event.Google",
+            "content": "Google is scheduled to host the Made by Google event on October 4 in New York.\nThe tech giant will launch the Pixel 8 series and the Pixel Watch 2 at the event.\nGoogle has announced that the Pixel Watch 2 will be launched in India on October 5.\nAdver... [2065 chars]",
+            "url": "https://www.businessinsider.in/tech/news/pixel-watch-2-gets-set-to-take-on-galaxy-watch-6-and-apple-watch-series-9-in-india/articleshow/103567404.cms",
+            "image": "https://www.businessinsider.in/photo/103567404/pixel-watch-2-gets-set-to-take-on-galaxy-watch-6-and-apple-watch-series-9-in-india.jpg?imgsize=8642",
+            "publishedAt": "2023-09-11T05:21:00Z",
             "source": {
-                "name": "News18",
-                "url": "https://www.news18.com"
+                "name": "Business Insider India",
+                "url": "https://www.businessinsider.in"
             }
         }
     ]
