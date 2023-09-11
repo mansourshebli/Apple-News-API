@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News App</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <h1>Top News Headlines</h1>
+    <ul>
+        {% for article in news %}
+        <li>
+            <h2><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h2>
+            <p>{{ article.description }}</p>
+            <p><strong>Source:</strong> {{ article.source }}</p>
+            <p><strong>Published At:</strong> {{ article.publishedAt }}</p>
+            <img src="{{ article.image }}" alt="Article Image">
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
