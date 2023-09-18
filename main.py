@@ -14,8 +14,9 @@ import urllib.request
 app = Flask(__name__)
 app.run(host="0.0.0.0", port=80)
 
-# News function (uses api key from GNews)
+# Get news function
 def get_news():
+    # Using API key from https://gnews.io
     apikey = "910f4ef48b858659cf53b9f030a88c88"
     category = "general"
     url = f"https://gnews.io/api/v4/top-headlines?category={category}&lang=en&country=us&max=10&apikey={apikey}"
@@ -44,6 +45,7 @@ def get_news():
 @app.route("/")
 def index():
     news_data = get_news()
+    # Uses html page from /templates/index.html
     return render_template("index.html", news=news_data)
 
 if __name__ == "__main__":
